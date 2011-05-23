@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eight Ball</string>
+    <string name="answer_1">As I see it, yes</string>
+    <string name="answer_2">Ask again later</string>
+    <string name="answer_3">Better not tell you now</string>
+    <string name="answer_4">Cannot predict now</string>
+    <string name="answer_5">Concentrate and ask again</string>
+    <string name="answer_6">Don&#146;t count on it</string>
+    <string name="answer_7">It is certain</string>
+    <string name="answer_8">It is decidedly so</string>
+    <string name="answer_9">Most likely</string>
+    <string name="answer_10">My reply is no</string>
+    <string name="answer_11">My sources say no</string>
+    <string name="answer_12">Outlook good</string>
+    <string name="answer_13">Outlook not so good</string>
+    <string name="answer_14">Reply hazy, try again</string>
+    <string name="answer_15">Signs point to yes</string>
+    <string name="answer_16">Very doubtful</string>
+    <string name="answer_17">Without a doubt</string>
+    <string name="answer_18">Yes</string>
+    <string name="answer_19">Yes - definitely</string>
+    <string name="answer_20">You may rely on it</string>
+</resources>
